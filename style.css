@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+    background-color: burlywood;
+    margin: 0;
+    padding: 0;
+}
+label {
+    display: block;
+    margin-top: 10px;
+}
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid pink;
+    border-radius: 3px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: blueviolet;
+    color: gainsboro;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
